@@ -1,0 +1,1 @@
+# Leaders and Temporal Power

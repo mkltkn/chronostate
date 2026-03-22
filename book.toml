@@ -1,0 +1,7 @@
+[book]
+title = "Chronostate & Chrononation"
+authors = ["M. Tekin"]
+language = "en"
+
+[output.html]
+default-theme = "light"
