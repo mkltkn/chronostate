@@ -1,3 +1,9 @@
+## Status
+
+This is a working manuscript.
+
+Full version is not publicly available.
+
 # Chronostate & Chrononation
 
 This repository contains the original manuscript of my work on Chronostate and Chrononation.

@@ -1,13 +1,13 @@
 # Build outputs
-/book/
-/exports/
-/public/
+book
+exports
+public
 
 # mdBook cache
-/.mdbook/
+.mdbook
 
-# Rust / cargo (mdbook plugin kullanırsan)
-/target/
+# Rust / cargo
+target
 
 # Logs
 *.log
@@ -23,7 +23,7 @@
 *.tmp
 *.swp
 
-# Node (ileride eklersen)
+# Node
 node_modules/
 
 # Env files
