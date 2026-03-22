@@ -1,0 +1,31 @@
+# Build outputs
+/book/
+/exports/
+/public/
+
+# mdBook cache
+/.mdbook/
+
+# Rust / cargo (mdbook plugin kullanırsan)
+/target/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Temp files
+*.tmp
+*.swp
+
+# Node (ileride eklersen)
+node_modules/
+
+# Env files
+.env
+.env.*
