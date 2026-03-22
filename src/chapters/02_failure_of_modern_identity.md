@@ -1,5 +1,3 @@
-© 2026 M. Tekin — All rights reserved. See LICENSE.md
-
 # The Failure of Modern Identity Models
 
 Modern identity relies on:
@@ -20,3 +18,5 @@ and still belong to different temporal realities.
 This is the missing layer.
 
 Time.
+
+© 2026 M. Tekin — All rights reserved. See LICENSE.md

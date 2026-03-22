@@ -1,5 +1,3 @@
-© 2026 M. Tekin — All rights reserved. See LICENSE.md
-
 # Chronostate
 
 A Chronostate is a system that organizes time.
@@ -17,3 +15,5 @@ A strong state controls its narrative across generations.
 A weak state resets itself repeatedly.
 
 Chronostate is the architecture of temporal control.
+
+© 2026 M. Tekin — All rights reserved. See LICENSE.md   

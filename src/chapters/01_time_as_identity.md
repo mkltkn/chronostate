@@ -1,5 +1,3 @@
-© 2026 M. Tekin — All rights reserved. See LICENSE.md
-
 # Time as Identity
 
 Identity is not static.
@@ -14,3 +12,5 @@ Without time, identity collapses into fragments.
 Time creates continuity.
 
 Continuity creates meaning.
+
+© 2026 M. Tekin — All rights reserved. See LICENSE.md

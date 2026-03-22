@@ -1,5 +1,3 @@
-© 2026 M. Tekin — All rights reserved. See LICENSE.md
-
 # Chrononation: The Slavic Time and the Greek Illusion
 
 ## Introduction
@@ -50,3 +48,5 @@ It is restoration.
 
 "We did not arrive late.
 We were written late."
+
+© 2026 M. Tekin — All rights reserved. See LICENSE.md

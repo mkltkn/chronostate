@@ -1,5 +1,3 @@
-© 2026 M. Tekin — All rights reserved. See LICENSE.md
-
 # The Future of Time
 
 Modern systems are unstable because they lack temporal depth.
@@ -15,3 +13,5 @@ Chronostates will define the next era.
 The struggle will not be for land.
 
 It will be for time.
+
+© 2026 M. Tekin — All rights reserved. See LICENSE.md

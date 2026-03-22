@@ -1,5 +1,3 @@
-© 2026 M. Tekin — All rights reserved. See LICENSE.md
-
 # Conclusion
 
 The greatest power is not territory.
@@ -11,3 +9,5 @@ control identity.
 
 Those who control identity,
 shape the future.
+
+© 2026 M. Tekin — All rights reserved. See LICENSE.md

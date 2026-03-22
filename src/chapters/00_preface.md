@@ -1,5 +1,3 @@
-© 2026 M. Tekin — All rights reserved. See LICENSE.md
-
 # Preface
 
 This book began with a simple question:
@@ -15,3 +13,5 @@ This work introduces two concepts:
 - Chrononation
 
 Together, they redefine identity as a temporal structure.
+
+© 2026 M. Tekin - All rights reserved. See LICENSE.md

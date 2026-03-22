@@ -1,5 +1,3 @@
-© 2026 M. Tekin — All rights reserved. See LICENSE.md
-
 # Chrononation
 
 Chrononation is the process by which a nation reclaims its time.
@@ -17,3 +15,5 @@ Chrononation restores:
 It is not invention.
 
 It is recovery.
+
+© 2026 M. Tekin — All rights reserved. See LICENSE.md

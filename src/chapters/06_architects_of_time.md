@@ -1,5 +1,3 @@
-© 2026 M. Tekin — All rights reserved. See LICENSE.md
-
 # Leaders and Temporal Power
 
 Some leaders reshape time.
@@ -14,3 +12,5 @@ Some leaders reshape time.
 Power is not only spatial.
 
 It is temporal.
+
+© 2026 M. Tekin — All rights reserved. See LICENSE.md
